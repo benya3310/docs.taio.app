@@ -44,7 +44,7 @@ If the file path is invalid, it throws an error.
 
 ## Import File
 
-Import any kind of files into Taio, such as photos:
+Import any kind of files into Taio, such as photoss:
 
 <img src="../integration/assets/IMG_6.png" width="360" />
 
